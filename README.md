@@ -44,16 +44,19 @@ https://imgur.com/eHRjSPz.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+CodePath did a great job at explaining the steps and provided good resources.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 One of the biggest problems I encountered for this submission was when Glitch’s website was not functioning. It would not allow me to login into my account and would just show a blank page. This was a problem since I couldn’t finish up the project during the allocated time I planned. I was able to contact Glitch’s IT support and they said it was a server problem on their end. Once I got the notification that the website was up and running, I found time in my schedule to finish the project, but I was rushed. The material was easy to understand and felt simple, so I did not have too much trouble completing the assignment. When I ran into an error I would reference CodePath’s instructions. Another challenge I faced was creating the gif. For whatever reason, my gifs do not render properly. I thought it was due to the video size, but the submission would not even accept a one second video. In the end, I copied the link from Imgur and added “.git” at the end.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+In an introductory CS course I took, a web developer came in to talk about his work. He mentioned how difficult it can be to implement animation into websites. It was easy to manipulate the code to make it seem like the buttons are flashing when really they are just changing colors. I am curious to see the code for a whole animation. Would it be something that is imported as an image or video, and how would you make it more interactive?
+I was surprised at how easy it was to implement the logic/rules for the game itself. They were simple if and else statements that I use regularly in my other classes. I would like to learn more about the different features for HTML and CSS since it seems to have more tricks to it than intuitive logic. For example, I did not intuitively know how to change the font style in CSS.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had a few more hours tweaking this project, I would have liked to decrease the time it takes for the game to show the user the order. I felt it was a little too long and can make the user lose interest quickly.
+I would also have liked to add more features such as leveling up in the game and keeping track of a high score. It would be a good idea to generate a random order for the button list. It would prevent the user from remembering the order of the one list that was provided. Another good idea is to have several lists rather than just one. If I wanted to create levels for this game, the first round would have a list of five buttons, all randomly generated. Then as the user continues to level up, we could add more random numbers to the list or generate a new list. As the user levels up, more buttons can also be added.
+
 
 
 
