@@ -47,7 +47,7 @@ https://imgur.com/eHRjSPz.gif
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+One of the biggest problems I encountered for this submission was when Glitch’s website was not functioning. It would not allow me to login into my account and would just show a blank page. This was a problem since I couldn’t finish up the project during the allocated time I planned. I was able to contact Glitch’s IT support and they said it was a server problem on their end. Once I got the notification that the website was up and running, I found time in my schedule to finish the project, but I was rushed. The material was easy to understand and felt simple, so I did not have too much trouble completing the assignment. When I ran into an error I would reference CodePath’s instructions. Another challenge I faced was creating the gif. For whatever reason, my gifs do not render properly. I thought it was due to the video size, but the submission would not even accept a one second video. In the end, I copied the link from Imgur and added “.git” at the end.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
